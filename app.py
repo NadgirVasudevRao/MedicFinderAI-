@@ -27,7 +27,7 @@ if 'search_performed' not in st.session_state:
     st.session_state.search_performed = False
 
 # Main title and description
-st.title("🏥 Indian Hospital Finder")
+st.title("🏥 Hospital Finder")
 st.markdown("Find the best hospitals in India for your medical needs with AI-powered recommendations")
 
 # Sidebar for search inputs
