@@ -12,7 +12,7 @@ from utils.ai_matcher import match_hospitals_to_condition
 
 # Page configuration
 st.set_page_config(
-    page_title="Indian Hospital Finder",
+    page_title="Hospital Finder",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
