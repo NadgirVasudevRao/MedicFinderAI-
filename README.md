@@ -30,7 +30,7 @@ A comprehensive web application built with Streamlit that helps users find the b
 ## Project Structure
 
 ```
-indian-hospital-finder/
+MedicFinderAI/
 ├── app.py                 # Main Streamlit application
 ├── data/
 │   ├── conditions.py      # Medical conditions and specialty mappings
